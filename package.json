@@ -1,0 +1,8 @@
+{
+  "name": "saunacost-r",
+  "version": "0.1.0",
+  "description": "Dollars-per-session math for a home sauna or cold plunge",
+  "license": "MIT",
+  "repository": "https://github.com/scrapertweeter3-prog/saunacost-r",
+  "homepage": "https://hackedself.com"
+}
