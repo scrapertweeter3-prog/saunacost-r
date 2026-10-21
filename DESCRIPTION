@@ -1,0 +1,18 @@
+Package: saunacost
+Type: Package
+Title: Dollars-Per-Session Math for a Home Sauna or Cold Plunge
+Version: 0.1.0
+Authors@R: person("James", "Verlander", email = "scrapertweeter3@gmail.com", role = c("aut", "cre"))
+Maintainer: James Verlander <scrapertweeter3@gmail.com>
+Description: A home sauna is priced by sticker and judged by vibe; this
+    package prices it by the session. sauna_cost() amortizes the gear over
+    the sessions you actually take, adds the electricity line most buyers
+    skip, and prints the visit count where the gear finally beats paying
+    per visit elsewhere - or says plainly when usage never closes the gap.
+    Companion to the protocol-cost writing on HackedSelf
+    <https://hackedself.com>.
+License: MIT + file LICENSE
+Encoding: UTF-8
+URL: https://hackedself.com
+BugReports: https://github.com/scrapertweeter3-prog/sauna-vs-gym-cost/issues
+RoxygenNote: 7.3.1
