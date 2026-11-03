@@ -13,6 +13,7 @@ calculator. The protocol-cost method comes from
 sauna_cost(2500, 4, 2.0, 0.17, 22, months = 36)
 # $sessions_in_window 626  $utility_per_session 0.34
 # $amortized_per_session 4.34  $breakeven_visits 115
+# $never_breaks_even FALSE
 ```
 
 ## Install
