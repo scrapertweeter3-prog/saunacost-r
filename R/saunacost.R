@@ -9,6 +9,6 @@ sauna_cost <- function(gear, week, kwh, rate, alt, months = 36) {
        sessions_in_window = window,
        utility_per_session = round(utility, 2),
        amortized_per_session = round(amortized, 2),
-       breakeven_visits = if (!is.na(breakeven)) round(breakeven) else NA,
+       breakeven_visits = if (!is.na(breakeven)) ceiling(breakeven) else NA,
        never_breakeaks = is.na(breakeven))
 }
