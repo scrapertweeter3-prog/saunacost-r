@@ -14,5 +14,5 @@ Description: A home sauna is priced by sticker and judged by vibe; this
 License: MIT + file LICENSE
 Encoding: UTF-8
 URL: https://hackedself.com
-BugReports: https://github.com/scrapertweeter3-prog/sauna-vs-gym-cost/issues
+BugReports: https://github.com/scrapertweeter3-prog/saunacost-r/issues
 RoxygenNote: 7.3.1
